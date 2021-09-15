@@ -95,7 +95,7 @@ Present “Questions Generation and Interrogation System” are confined to a li
 Module 1: Formula and Identifier Retrieval​
 ```
  `Module1` **retrieves formula and Identifier by using wikidata properties,** 
- * `defining formula' (P2534)` $a = \dfrac{dv}{dt}$
+ * `defining formula' (P2534)` $$a = \dfrac{dv}{dt}$$
 
  * `in defining formula' (P7235)` $= a$
  * `calculated from'  (P4934)​`
