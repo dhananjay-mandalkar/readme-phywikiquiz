@@ -84,8 +84,7 @@ Module 1: Formula and Identifier Retrieval​
 ```
  `Module1` **retrieves formula and identifier information by using Wikidata properties,** 
 
- * `'defining formula' (P2534):` 
-    <img src="https://render.githubusercontent.com/render/math?math=a=\frac{dv}{dt}">
+ * `'defining formula' (P2534):` <img src="https://render.githubusercontent.com/render/math?math=a=\frac{dv}{dt}">
  * `'in defining formula' (P7235):` <img src="https://render.githubusercontent.com/render/math?math=a">
  * `'calculated from' (P4934)​:`
   
@@ -105,7 +104,7 @@ Module 3 Identifier Value Generation
 ```
 `Module 3` **generates random numerical values for unknown identifiers and performs the required mathematical operations in order to calculate the numerical value of the desired identifier.** 
 
- * For equations $a = \dfrac{v}{t}, t = \dfrac{v}{a},$, and $ v = a \times t$, the system generates for the two respective right-hand side identifiers perform the required multiplication or division operation. The result is later compared to the user input for correctness evaluation.​
+ * For equations <img src="https://render.githubusercontent.com/render/math?math=a = \frac{v}{t}">, <img src="https://render.githubusercontent.com/render/math?math=t = \frac{v}{a}">, and <img src="https://render.githubusercontent.com/render/math?math=v = a \times t">, the system generates for the two respective right-hand side identifiers perform the required multiplication or division operation. The result is later compared to the user input for correctness evaluation.​
 
 ```
 Module 4 Question Text Generation
@@ -113,7 +112,7 @@ Module 4 Question Text Generation
 `Module 4` **frames a well-structured question in natural language by using names and values for the occurring identifiers.** 
 
  * **In our example case**
-   What is the acceleration a, given velocity v = 4 m~s^-1, duration t = 5 s?​
+   What is the acceleration a, given velocity v = 4 m s^-1, duration t = 5 s?​
 ```
 Module 5 Solution Value and Unit Check​
 ```
