@@ -12,12 +12,18 @@ Examination is the essential part for every student’s academic life. A large p
 
 **PhysWikiQuiz** is a web-based Physics Questions Generation and Interrogation System, implemented with Flask, the micro web framework written in Python. 
 
-* Demo of PhysWikiQuiz
+* Demo of PhysWikiQuiz: **Speed**
+
 ![Demo of PhysWikiQuiz](PhysWikiQuiz_demo.gif)
+
+* Demo of PhysWikiQuiz: **acceleration**
+![Demo of PhysWikiQuiz](PhysWikiQuiz_demo_acceleration.gif)
 
 * You can quickly check system hosted at (https://physwikiquiz.wmflabs.org).
 
-* Video demonstration of [PhysWikiQuiz](https://youtu.be/NLX7x7JwZ_8). (you will be redirected to YouTube)
+* Video demonstration of PhysWikiQuiz
+  * [Speed](https://youtu.be/NLX7x7JwZ_8) (you will be redirected to YouTube)
+  * [Acceleration](https://youtu.be/c6vfWiCxTZY) (you will be redirected to YouTube)
 
 ## Dependencies
 
