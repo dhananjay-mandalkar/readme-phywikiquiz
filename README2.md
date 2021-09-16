@@ -46,7 +46,7 @@ $ pip3 install pywikibot
 $ pip3 install sparqlwrapper
 ```
 ### Sympy
-The computer Algebra System (CAS) Sympy `version 1.7.1` is used for the calculation module to get result values given a retrieved formula and inputs for the variables. 
+The Computer Algebra System (CAS) Sympy `version 1.7.1` is used for the calculation module to get result values given a retrieved formula and inputs for the variables. 
 ```
 $ apt-get install python3-sympy
 ```
@@ -84,7 +84,7 @@ Module 1: Formula and Identifier Retrieval​
 ```
  `Module1` **retrieves formula and identifier information by using Wikidata properties,** 
 
- * `'defining formula' (P2534):` `$a = \dfrac{dv}{dt}$`
+ * `'defining formula' (P2534):` <img src="https://render.githubusercontent.com/render/math?math=a=\dfrac{dv}{dt}">
  * `'in defining formula' (P7235):` `$= a$`
  * `'calculated from' (P4934)​:`
   
