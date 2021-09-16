@@ -84,8 +84,9 @@ Module 1: Formula and Identifier Retrieval​
 ```
  `Module1` **retrieves formula and identifier information by using Wikidata properties,** 
 
- * `'defining formula' (P2534):` <img src="https://render.githubusercontent.com/render/math?math=a=\dfrac{dv}{dt}">
- * `'in defining formula' (P7235):` `$= a$`
+ * `'defining formula' (P2534):` 
+    <img src="https://render.githubusercontent.com/render/math?math=a=\frac{dv}{dt}">
+ * `'in defining formula' (P7235):` <img src="https://render.githubusercontent.com/render/math?math=a">
  * `'calculated from' (P4934)​:`
   
     * `'velocity' (Q11465):`
@@ -95,9 +96,9 @@ Module 2 Formula Rearrangement
 ```
 `Module 2` **generates various possible rearrangements of the retrieved formula.** 
 
- * $a = \dfrac{v}{t}$
- * $t = \dfrac{v}{a}$
- * $v = a \times t$
+ * <img src="https://render.githubusercontent.com/render/math?math=a = \frac{v}{t}">
+ * <img src="https://render.githubusercontent.com/render/math?math=t = \frac{v}{a}">
+ * <img src="https://render.githubusercontent.com/render/math?math=v = a \times t">
 
 ```
 Module 3 Identifier Value Generation
