@@ -17,13 +17,14 @@ Examination is the essential part for every student’s academic life. A large p
 ![Demo of PhysWikiQuiz](PhysWikiQuiz_demo.gif)
 
 * Demo of PhysWikiQuiz: **acceleration**
+
 ![Demo of PhysWikiQuiz](PhysWikiQuiz_demo_acceleration.gif)
 
 * You can quickly check system hosted at (https://physwikiquiz.wmflabs.org).
 
 * Video demonstration of PhysWikiQuiz
-  * [Speed](https://youtu.be/NLX7x7JwZ_8) (you will be redirected to YouTube)
-  * [Acceleration](https://youtu.be/c6vfWiCxTZY) (you will be redirected to YouTube)
+  * [Speed](https://youtu.be/3fx_GzhBnNo) (you will be redirected to YouTube)
+  * [Acceleration](https://youtu.be/PRyCT7RD_6w) (you will be redirected to YouTube)
 
 ## Dependencies
 
@@ -32,7 +33,7 @@ A deployed version of the system is available online, hosted by Wikimedia at htt
 Python >= 3.8
 ```
 ### Flask
-The web framework Flask version `0.12.2` is used as... web framework middleware used as an interface between the frontend and the backend.
+The web framework Flask version `0.12.2` is used as web framework middleware used as an interface between the frontend and the backend.
 ```
 $ pip3 install Flask
 ```
